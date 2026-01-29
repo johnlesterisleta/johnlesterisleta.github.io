@@ -113,7 +113,7 @@ const data ={
     },
     {
       "label": "Buy me a coffee",
-      "link": "https://www.buymeacoffee.com/r194dME8y",
+      "link": "https://www.buymeacoffee.com/johnlesterisleta",
       "icon": "fa fa-coffee"
     }
   ],
