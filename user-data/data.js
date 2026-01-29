@@ -103,7 +103,7 @@ const data ={
     },
     {
       "label": "LinkedIn",
-      "link": "https://www.linkedin.com/in/john-lester-isleta-08ba73168/",
+      "link": "https://www.linkedin.com/in/johnlesterisleta/",
       "icon": "fa-brands fa-linkedin"
     },
     {
