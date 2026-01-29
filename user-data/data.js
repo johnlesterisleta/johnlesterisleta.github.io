@@ -1,136 +1,95 @@
 const data ={
   "bio": [
-    "Hi, I'm Vinay Somawat — a Frontend Engineer with 5+ years of experience building scalable, high-performance web applications using Angular and React.",
-    "I specialize in component architecture, performance optimization, and modern frontend tooling like Storybook, Stencil, and Module Federation. I actively leverage GitHub Copilot and OpenAI APIs to accelerate UI development, automate workflows, and improve developer productivity.",
-    "I’m passionate about clean code, mentoring, and driving engineering excellence through collaboration, automation, and continuous improvement."
+    "Hi, I'm John Lester Isleta — a Shopify Developer with hands-on experience in e-commerce projects, supported by 9+ years of experience in administrative, documentation, and web-related roles.",
+    "I specialize in building functional, user-friendly websites, optimizing workflows, and applying strong problem-solving skills. I leverage modern tools and best practices to streamline development, ensure quality, and deliver scalable solutions.",
+    "I’m passionate about creating meaningful, purpose-driven web experiences, fostering collaboration, and continuously growing my skills while contributing positively to every project I work on."
   ],
   "skills": [
+    "HTML",
+    "CSS",
     "JavaScript",
-    "TypeScript",
-    "Angular",
-    "AngularJS",
-    "React",
-    "HTML5",
-    "CSS3",
+    "Liquid",
     "Tailwind CSS",
-    "Material UI",
-    "Bootstrap",
-    "RxJS",
-    "NGXS",
-    "NGRX",
-    "WebSockets",
-    "Module Federation",
-    "Signals API",
-    "Micro-frontend Architecture",
-    "StencilJS",
-    "Storybook",
-    "Webpack",
-    "Git",
-    "GitHub Copilot",
-    "OpenAI APIs",
-    "Chrome DevTools",
-    "Performance Optimization",
-    "Responsive Design",
-    "Web Accessibility",
-    "Unit Testing",
-    "ESLint",
-    "Prettier"
+    "Responsive Design"
   ],
   "experience": [
     {
-      "title": "SS&C Technologies",
-      "duration": "August 2025 - Present",
-      "subtitle": "Senior Software Engineer",
+      "title": "Shopify Developer",
+      "duration": "2024 - Present",
+      "subtitle": "Freelance",
       "details": [
-        "coming soon..."
+        "Delivered custom Shopify websites tailored to client needs.",
+        "Developed and customized themes",
+        "plugins",
+        "and e-commerce features.",
+        "Built features using JavaScript",
+        "HTML",
+        "Tailwind CSS",
+        "including payment integrations and product catalogs.",
+        "Collaborated with clients to provide technical guidance and implement solutions."
       ],
-      "tags": [],
+      "tags": [
+        "HTML"
+      ],
       "icon": "money"
     },
     {
-      "title": "Shiprocket Limited",
-      "duration": "September 2023 - August 2025",
-      "subtitle": "Software Engineer",
+      "title": "Shopify Lister",
+      "duration": "2023",
+      "subtitle": "Freelance",
       "details": [
-        "Migrated 30+ AngularJS modules to Angular 19 using standalone components and lazy loading",
-        "improving maintainability and performance.",
-        "Built a reusable design system with StencilJS and Storybook",
-        "reducing UI defects by 35% and halving development time for new components.",
-        "Developed a prompt-based courier rule engine with OpenAPI",
-        "automating 20+ manual steps and reducing operational workload by 60%.",
-        "Implemented global search with deep linking and keyboard shortcuts",
-        "boosting agent task throughput by 30%.",
-        "Integrated GitHub Copilot and ChatGPT into the dev workflow",
-        "improving developer productivity by 25%.",
-        "Led mentorship initiatives and enforced code quality through ESLint",
-        "Prettier",
-        "and Git hooks."
+        "Managed and uploaded product listings on Shopify stores.",
+        "Ensured accuracy of product information",
+        "images",
+        "and pricing for optimal online presentation.",
+        "Maintained organized listings to improve store efficiency and customer experience."
       ],
       "tags": [
-        "TypeScript",
-        "Storybook",
-        "GitHub Copilot"
+        "Responsive Design"
       ],
       "icon": "truck"
     },
     {
-      "title": "Biofourmis India Pvt. Ltd.",
-      "duration": "April 2022 - July 2023",
-      "subtitle": "Software Engineer",
+      "title": "Billing Assistant",
+      "duration": "2019 - 2022",
+      "subtitle": "City Advertising Ventures Corporation",
       "details": [
-        "Spearheaded micro-frontend architecture using Module Federation",
-        "enabling team-level deploy independence.",
-        "Implemented multi-region deployment logic with dynamic API routing and failover",
-        "enhancing global reliability.",
-        "Integrated Twilio Video",
-        "Countly",
-        "and NGXS WebSockets to enable real-time remote patient monitoring and collaboration tools.",
-        "Recognized with the Bravo Award for building multi-region operational support across the platform."
+        "Handled billing operations and maintained accurate financial records.",
+        "Assisted with invoicing",
+        "reconciliations",
+        "and client account management.",
+        "Utilized Microsoft Excel for monitoring transactions and Word for documentation."
       ],
-      "tags": [
-        "TypeScript",
-        "RxJS",
-        "NGXS",
-        "WebSockets",
-        "Module Federation"
-      ],
+      "tags": [],
       "icon": "heartbeat"
     },
     {
-      "title": "Novopay Solutions Pvt. Ltd.",
-      "duration": "July 2020 - April 2022",
-      "subtitle": "Software Engineer",
+      "title": "Documentation Staff",
+      "duration": "2016 - 2018",
+      "subtitle": "SL Agritech Corporation",
       "details": [
-        "Developed Aadhaar-enabled banking features (eKYC",
-        "cash withdrawal",
-        "balance inquiry) for 100K+ retail agents in rural India.",
-        "Created wallet QR-code flow",
-        "reducing transaction errors by 25% and increasing user adoption.",
-        "Integrated Clevertap analytics",
-        "Freshdesk support",
-        "and chatbot tools to cut issue resolution time by 40%."
+        "Managed and organized company documentation and records.",
+        "Ensured proper filing and retrieval of important documents.",
+        "Processed transactions using SAP",
+        "maintaining accuracy and efficiency."
       ],
-      "tags": [
-        "JavaScript",
-        "Angular",
-        "Bootstrap"
-      ],
+      "tags": [],
       "icon": "qrcode"
     }
   ],
   "education": [
     {
-      "title": "B.Tech. in Computer Science and Engineering",
-      "duration": "2016 - 2020",
-      "subtitle": "National Institute of Technology, Warangal",
+      "title": "Bachelor of Science in Computer Science",
+      "duration": "2011 - 2015",
+      "subtitle": "De La Salle Lipa",
       "details": [],
       "tags": [],
       "icon": "graduation-cap"
     },
     {
-      "title": "Class 12th in Science and Mathematics",
+      "title": "Saint Mary’s Academy of Nagcarlan",
       "duration": "",
-      "subtitle": "Board of Secondary Education, Rajasthan",
+      "subtitle": "High School Diploma",
       "details": [],
       "tags": [],
       "icon": "book"
@@ -139,17 +98,17 @@ const data ={
   "contactLinks": [
     {
       "label": "Email",
-      "link": "mailto:vinaysomawat40@gmail.com",
+      "link": "johnlesterisleta@gmail.com",
       "icon": "fa fa-envelope"
     },
     {
       "label": "LinkedIn",
-      "link": "https://www.linkedin.com/in/vinaysomawat/",
+      "link": "https://www.linkedin.com/in/john-lester-isleta-08ba73168/",
       "icon": "fa-brands fa-linkedin"
     },
     {
       "label": "GitHub",
-      "link": "https://github.com/vinaysomawat",
+      "link": "https://github.com/johnlesterisleta",
       "icon": "fa-brands fa-github"
     },
     {
@@ -168,7 +127,7 @@ const data ={
         },
         {
           "text": "Github",
-          "link": "https://github.com/vinaysomawat/vinaysomawat.github.io"
+          "link": "https://github.com/johnlesterisleta"
         }
       ]
     },
@@ -178,10 +137,6 @@ const data ={
         {
           "text": "Trekking & Himalayan Pass Adventures",
           "link": "./pages/adventure.html"
-        },
-        {
-          "text": "Generate JSON data",
-          "link": "./pages/json-generator.html"
         }
       ]
     },
