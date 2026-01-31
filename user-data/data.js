@@ -115,7 +115,7 @@ const data ={
   "contactLinks": [
     {
       "label": "Email",
-      "link": "johnlesterisleta@gmail.com",
+      "link": "/pages/contact.html",
       "icon": "fa fa-envelope"
     },
     {
