@@ -5,6 +5,7 @@ const data ={
     "I’m passionate about creating meaningful, purpose-driven web experiences, fostering collaboration, and continuously growing my skills while contributing positively to every project I work on."
   ],
   "skills": [
+    "Shopify",
     "HTML",
     "CSS",
     "JavaScript",
@@ -29,7 +30,11 @@ const data ={
         "Collaborated with clients to provide technical guidance and implement solutions."
       ],
       "tags": [
-        "HTML"
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Liquid",
+        "Tailwind CSS",
       ],
       "icon": "money"
     },
@@ -45,7 +50,9 @@ const data ={
         "Maintained organized listings to improve store efficiency and customer experience."
       ],
       "tags": [
-        "Responsive Design"
+        "Product listing",
+        "Inventory Management",
+        "E-commerce SEO"
       ],
       "icon": "truck"
     },
@@ -60,7 +67,11 @@ const data ={
         "and client account management.",
         "Utilized Microsoft Excel for monitoring transactions and Word for documentation."
       ],
-      "tags": [],
+      "tags": [
+        "Invoicing & Billing",
+        "Account Receivable",
+        "Data Entry"
+      ],
       "icon": "heartbeat"
     },
     {
@@ -73,7 +84,11 @@ const data ={
         "Processed transactions using SAP",
         "maintaining accuracy and efficiency."
       ],
-      "tags": [],
+      "tags": [
+        "Document Management & Filing",
+        "Data Accuracy & Record Keeping",
+        "SAP ERP"
+      ],
       "icon": "qrcode"
     }
   ],
@@ -82,19 +97,21 @@ const data ={
       "title": "Bachelor of Science in Computer Science",
       "duration": "2011 - 2015",
       "subtitle": "De La Salle Lipa",
-      "details": [],
+      "details": ["Silver Awardee for Computer Science Best Thesis 2015"],
       "tags": [],
       "icon": "graduation-cap"
     },
+    /**
     {
       "title": "Saint Mary’s Academy of Nagcarlan",
-      "duration": "",
+      "duration": "2007 - 2011",
       "subtitle": "High School Diploma",
       "details": [],
       "tags": [],
       "icon": "book"
     }
-  ],
+  **/
+ ],
   "contactLinks": [
     {
       "label": "Email",
