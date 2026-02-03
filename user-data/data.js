@@ -152,7 +152,7 @@ const data ={
       "label": "Pages",
       "data": [
         {
-          "text": "Trekking & Himalayan Pass Adventures",
+          "text": "Web Development Projects",
           "link": "./pages/adventure.html"
         }
       ]
