@@ -160,7 +160,7 @@ const data ={
     {
       "label": "copyright-text",
       "data": [
-        "Built with HTML, CSS, JavaScript, and ❤️"
+        "© 2026 John Lester Isleta."
       ]
     }
   ]
