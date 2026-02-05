@@ -1182,19 +1182,19 @@ strong {
 .badge-stack {
   background-color: #f48024;
   border: 1px solid #c66a17;
-  color: #fff;
+  color: #ffffff;
 }
 
 .badge-github {
-  background-color: #000;
-  border: 1px solid #333;
-  color: #fff;
+  background-color: #24292f;
+  border: 1px solid #1b1f23;
+  color: #ffffff;
 }
 
 .badge-leetcode {
-  background-color: #ffc01e;
-  border: 1px solid #ffb300;
-  color: #111;
+  background-color: #ffa116;
+  border: 1px solid #cc7a00;
+  color: #000000;
 }
 
 .profile-url {
