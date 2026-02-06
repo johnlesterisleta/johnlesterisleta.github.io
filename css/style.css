@@ -501,7 +501,7 @@ body.offcanvas .colorlib-nav-toggle {
   .timeline-entry
   .timeline-entry-inner
   .timeline-icon.color-2 {
-  background: brown;
+  background: #D28C3B; /* timeline icon color */
   color: white;
 }
 .timeline-centered
@@ -931,10 +931,10 @@ footer ul {
   }
 }
 
-.brown-badge {
-  background-color: brown;
-  border: 1px solid #850101;
-  color: #fff;
+.brown-badge { /* timeline tag color */
+  background-color: #D28C3B; /* warm golden-brown, lighter than brown */
+  border: 1px solid #B36C1E; /* darker shade of gold/brown */
+  color: #FFFFFF; 
 }
 
 hr {
