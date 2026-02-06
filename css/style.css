@@ -462,7 +462,7 @@ body.offcanvas .colorlib-nav-toggle {
   position: absolute;
   display: block;
   width: 4px;
-  background: #f9bf3f;
+  background: #A8C6E4; /* timeline line color */
   top: 20px;
   bottom: 20px;
   margin-left: 29px;
