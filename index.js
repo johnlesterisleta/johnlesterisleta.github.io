@@ -69,7 +69,7 @@ function mapBasicResponse(basics) {
     website,
   } = basics;
 
-  window.parent.document.title = name;
+  window.parent.document.title = name + " - Shopify Developer Portfolio"; // Title Bar
 }
 
 function populateBio(items, id) {
