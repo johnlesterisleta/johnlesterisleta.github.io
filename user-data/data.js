@@ -1,6 +1,6 @@
 const data ={
   "bio": [
-    "Hi, I'm John Lester Isleta — a Shopify Developer with hands-on experience in e-commerce projects, supported by 9+ years of experience in administrative, documentation, and web-related roles.",
+    "Hi, I'm John Lester Isleta — a Shopify Developer with hands-on experience in e-commerce projects, supported by years of experience in administrative, documentation, and web-related roles.",
     "I specialize in building functional, user-friendly websites, optimizing workflows, and applying strong problem-solving skills. I leverage modern tools and best practices to streamline development, ensure quality, and deliver scalable solutions.",
     "I’m passionate about creating meaningful, purpose-driven web experiences, fostering collaboration, and continuously growing my skills while contributing positively to every project I work on."
   ],
