@@ -21,12 +21,8 @@ const data ={
       "details": [
         "Delivered custom Shopify websites tailored to client needs.",
         "Developed and customized themes",
-        "plugins",
-        "and e-commerce features.",
-        "Built features using JavaScript",
-        "HTML",
-        "Tailwind CSS",
-        "including payment integrations and product catalogs.",
+        "plugins and e-commerce features.",
+        "Built features using JavaScript, HTML, Tailwind CSS including payment integrations and product catalogs.",
         "Collaborated with clients to provide technical guidance and implement solutions."
       ],
       "tags": [
@@ -36,7 +32,7 @@ const data ={
         "Liquid",
         "Tailwind CSS",
       ],
-      "icon": "money"
+      "icon": "laptop-code"
     },
     {
       "title": "Shopify Lister",
@@ -44,9 +40,7 @@ const data ={
       "subtitle": "Freelance",
       "details": [
         "Managed and uploaded product listings on Shopify stores.",
-        "Ensured accuracy of product information",
-        "images",
-        "and pricing for optimal online presentation.",
+        "Ensured accuracy of product information, images and pricing for optimal online presentation.",
         "Maintained organized listings to improve store efficiency and customer experience."
       ],
       "tags": [
@@ -54,7 +48,7 @@ const data ={
         "Inventory Management",
         "E-commerce SEO"
       ],
-      "icon": "truck"
+      "icon": "layer-group"
     },
     {
       "title": "Billing Assistant",
@@ -62,9 +56,8 @@ const data ={
       "subtitle": "City Advertising Ventures Corporation",
       "details": [
         "Handled billing operations and maintained accurate financial records.",
-        "Assisted with invoicing",
-        "reconciliations",
-        "and client account management.",
+        "Assisted with invoicing.",
+        "Reconciliations and client account management.",
         "Utilized Microsoft Excel for monitoring transactions and Word for documentation."
       ],
       "tags": [
@@ -72,7 +65,7 @@ const data ={
         "Account Receivable",
         "Data Entry"
       ],
-      "icon": "heartbeat"
+      "icon": "file-invoice-dollar"
     },
     {
       "title": "Documentation Staff",
@@ -81,15 +74,14 @@ const data ={
       "details": [
         "Managed and organized company documentation and records.",
         "Ensured proper filing and retrieval of important documents.",
-        "Processed transactions using SAP",
-        "maintaining accuracy and efficiency."
+        "Processed transactions using SAP maintaining accuracy and efficiency."
       ],
       "tags": [
         "Document Management & Filing",
         "Data Accuracy & Record Keeping",
         "SAP ERP"
       ],
-      "icon": "qrcode"
+      "icon": "file-lines"
     }
   ],
   "education": [
@@ -97,7 +89,10 @@ const data ={
       "title": "Bachelor of Science in Computer Science",
       "duration": "2011 - 2015",
       "subtitle": "De La Salle Lipa",
-      "details": ["Silver Awardee for Computer Science Best Thesis 2015"],
+      "details": [
+        "Activities and societies: Junior Philippines Computer Society (Member)",
+        "Silver Awardee for Computer Science Best Thesis 2015"
+      ],
       "tags": [],
       "icon": "graduation-cap"
     },
